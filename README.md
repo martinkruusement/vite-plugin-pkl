@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/vite-plugin-pkl.svg)](https://www.npmjs.com/package/vite-plugin-pkl)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.txt)
 
-PKL file plugin for vite.
+PKL file import plugin for Vite.
 
 Uses [@pkl-community/node-packages](https://www.npmjs.com/package/@pkl-community/pkl) package for parsing.
 
