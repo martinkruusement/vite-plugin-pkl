@@ -1,23 +1,25 @@
 {
   "name": "vite-plugin-pkl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Import .pkl files as Javascript objects in Vite",
+  "type": "module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/martinkruusement/vite-plugin-pkl.git"
   },
   "keywords": [
     "pkl",
+    "vite-plugin",
     "vite"
   ],
   "author": "Martin Kruusement",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/martinkruusement/vite-plugin-pkl/issues"
   },
-  "homepage": "https://github.com/martinkruusement/vite-plugin-pkl#readme"
+  "homepage": "https://github.com/martinkruusement/vite-plugin-pkl#readme",
+  "dependencies": {
+    "@pkl-community/pkl": "^0.25.1-2"
+  }
 }
