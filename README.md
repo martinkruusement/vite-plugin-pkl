@@ -6,7 +6,6 @@
 PKL file plugin for vite.
 
 Uses [@pkl-community/node-packages](https://www.npmjs.com/package/@pkl-community/pkl) package for parsing.
-https://github.com/pkl-community/node-packages/issues
 
 > [!WARNING]  
 > - This is an experimental plugin and depends on [@pkl-community/node-packages](https://github.com/pkl-community/node-packages).
